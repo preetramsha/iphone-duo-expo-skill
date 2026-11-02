@@ -1,6 +1,6 @@
 # iphone-duo-expo
 
-[![skills.sh](https://skills.sh/b/preetramsha/iphone-duo-expo)](https://skills.sh/preetramsha/iphone-duo-expo)
+[![skills.sh](https://skills.sh/b/preetramsha/iphone-duo-expo-skill)](https://skills.sh/preetramsha/iphone-duo-expo-skill)
 
 A skill for making React Native / Expo apps work correctly on Apple's iPhone Duo
 foldable — safe areas, the vertical rail, dynamic window sizes, native
@@ -13,13 +13,13 @@ into an agent-ready workflow with focused references and a project audit script.
 ## Install
 
 ```bash
-npx skills add preetramsha/iphone-duo-expo -g
+npx skills add preetramsha/iphone-duo-expo-skill -g
 ```
 
 Install for one project instead of globally:
 
 ```bash
-npx skills add preetramsha/iphone-duo-expo
+npx skills add preetramsha/iphone-duo-expo-skill
 ```
 
 ## What it covers
